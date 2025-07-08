@@ -1,0 +1,4 @@
+User-defined configuration file (BENCH/baseline_Benchmarker/caches/Universal_SRAM_Tags_512.cfg) is loaded
+
+BENCH/baseline_Benchmarker/caches/Universal_SRAM_Tags_512.cfg cannot be found!
+ This file may be present in "config" folder. If so, please run destiny from that folder, otherwise, change the file name to include folder location.

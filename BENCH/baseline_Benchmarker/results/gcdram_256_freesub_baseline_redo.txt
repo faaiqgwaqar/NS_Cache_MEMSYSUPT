@@ -1,0 +1,4 @@
+User-defined configuration file (BENCH/verif_Benchmarker/gcDRAM_256_baseline.cfg) is loaded
+
+BENCH/verif_Benchmarker/gcDRAM_256_baseline.cfg cannot be found!
+ This file may be present in "config" folder. If so, please run destiny from that folder, otherwise, change the file name to include folder location.

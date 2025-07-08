@@ -1,0 +1,19 @@
+-MemCellType: gcDRAM
+
+///CellArea (F^2): 275.51
+//-CellArea (F^2): 398
+-CellArea (F^2): 512
+
+//-CellAspectRatio: 0.69
+-CellAspectRatio: 0.98
+
+-ReadMode: voltage
+
+-AccessType: CMOS
+-AccessCMOSWidth (F): 1
+
+-DRAMCellCapacitance (F): 1.2e-15
+-ResetVoltage (V): vdd
+-SetVoltage (V): vdd
+
+-MinSenseVoltage (mV): 100

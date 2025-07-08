@@ -1,0 +1,15 @@
+-MemCellType: FeRAM
+
+-CellArea (F^2): 96
+-CellAspectRatio: 0.67
+
+-ReadMode: voltage
+
+-AccessType: CMOS
+-AccessCMOSWidth (F): 2
+
+-DRAMCellCapacitance (F): 1.51e-15
+-ResetVoltage (V): 0.8
+-SetVoltage (V): 0.8
+
+-MinSenseVoltage (mV): 50

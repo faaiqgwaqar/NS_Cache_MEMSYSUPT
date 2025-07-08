@@ -1,0 +1,29 @@
+//CELL FILE BASED ON IBM 14nm FinFET MRAM (IEDM 2020)
+
+-MemCellType: MRAM
+//-CellArea (F^2): 3033
+-CellArea (F^2): 280
+-CellAspectRatio: 0.95
+//-CellAspectRatio: 1
+-ResistanceOn (ohm): 7870
+-ResistanceOff (ohm): 19210
+-ReadMode: current
+-ReadVoltage (V): 0.7
+-MinSenseVoltage (mV): 100
+-ReadPower (uW): 5.59
+//-ReadPower (uW): 10.9
+-ResetMode: current
+//-ResetCurrent (uA): 116.9
+-ResetCurrent (uA): 89.32
+-ResetPulse (ns): 4
+//-ResetEnergy (pJ): 0.4676
+-ResetEnergy (pJ): 0.35736
+-SetMode: current
+-SetCurrent (uA): 75.5
+//-SetCurrent (uA): 47.9
+-SetPulse (ns): 4
+//-SetEnergy (pJ): 0.192
+-SetEnergy (pJ): 0.30224
+-AccessType: CMOS
+-VoltageDropAccessDevice (V): 0.15
+-AccessCMOSWidth (F): 4
